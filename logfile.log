@@ -1,0 +1,7 @@
+[INFO ] 2023-02-16 12:50:00.773 [main] BaseTest - config.properties file has been loaded
+[INFO ] 2023-02-16 12:50:00.776 [main] BaseTest - locators.properties file has been loaded
+[DEBUG] 2023-02-16 12:50:03.281 [main] BaseTest - Chrome launched
+[INFO ] 2023-02-16 12:50:04.291 [main] BaseTest - Test Site Url is launched
+[INFO ] 2023-02-16 12:50:04.416 [main] BaseTest - Webelements of all parcel stations have been stored in ArrayList
+[INFO ] 2023-02-16 12:50:04.425 [main] BaseTest - Assertion is successful
+[INFO ] 2023-02-16 12:50:05.264 [main] BaseTest - Test execution completed
